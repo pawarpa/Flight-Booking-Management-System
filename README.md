@@ -5,7 +5,7 @@ The primary challenge addressed in this project was the design and implementatio
 Management System. The research question revolved around how to architect a database system that efficiently
 handles flight bookings, seat reservations, and passenger information.
 
-## My approach and methodology
+## Approach and methodology
 Tools: SQL, SSMS, ER Studio, Tableau
 1. Database Design: The project commenced with the creation of an entity-relationship diagram (ERD) to model the
 database's structure. This involved identifying essential entities, relationships, and attributes, such as flights,
